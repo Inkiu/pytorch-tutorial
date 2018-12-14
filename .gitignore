@@ -1,0 +1,8 @@
+### jupyter notebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+### pytorch ###
+# Data
+data/from_pytorch_download
