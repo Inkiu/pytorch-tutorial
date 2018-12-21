@@ -5,4 +5,8 @@
 
 ### pytorch ###
 # Data
-data/from_pytorch_download
+# data/from_pytorch_download
+data/*
+
+### ignore temp files ###
+numpy_prac.ipynb
